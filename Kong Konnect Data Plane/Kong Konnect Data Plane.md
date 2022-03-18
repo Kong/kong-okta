@@ -80,7 +80,7 @@ kube-system   kube-dns     ClusterIP   10.100.0.10   <none>        53/UDP,53/TCP
 
 ### Kong Certificates and Key
 
-Login to Konnect ([http://konnect.konghq.com](http://konnect.konghq.com)) and go to "Runtimes" -> "Configure Runtime" -> "Kubernetes":
+Login to [Konnect](http://konnect.konghq.com) and go to "Runtimes" -> "Configure Runtime" -> "Kubernetes":
 
 ![konnect_runtime](images/KonnectRuntime.png)
 
