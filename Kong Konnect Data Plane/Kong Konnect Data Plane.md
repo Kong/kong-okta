@@ -297,4 +297,4 @@ kube-system   kube-dns             ClusterIP      10.100.0.10     <none>        
 
 ### Next Steps
 
-* Kong Fundamentals
+[Kong Fundamentals](https://github.com/Kong/kong-okta/blob/main/Kong%20Fundamentals/Kong%20Fundamentals.md)
