@@ -49,17 +49,13 @@ It's important to notice that one of the main benefits provided by architecture 
 
 ### Kong Konnect Enterprise and Okta
 
-This document describes how to configure both Kong Konnect Enterprise and Okta to implement basic OIDC flows including:
-
-
+The following documents describe how to configure both Kong Konnect Enterprise and Okta to implement basic OIDC flows including:
 
 * Client Credentials
 * Authorization Code
 * Access Control
 
-The following diagram shows a Reference Architecture including Kong Konnect Enterprise and Okta
-
-
+The diagram shows a Reference Architecture including Kong Konnect Enterprise and Okta
 
 <p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
