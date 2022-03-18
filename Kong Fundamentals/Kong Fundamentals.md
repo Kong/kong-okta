@@ -39,12 +39,7 @@ Type "http://httpbin.org" for URL and click on "Next"
 
 Type "httpbinroute" for Name. Click on "+ Add Path" and type "/httpbin". Click on "Create".
 
-
-
-<p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image9.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image9.png "image_tooltip")
+![newimplementation3](images/newimplementation3.png)
 
 
 
