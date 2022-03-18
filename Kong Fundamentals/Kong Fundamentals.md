@@ -396,4 +396,6 @@ X-RateLimit-Remaining-Minute: 4
 ```
 
 
+### Next Steps
 
+[Client Credentials](https://github.com/Kong/kong-okta/blob/main/Client%20Credentials/Client%20Credentials.md)
