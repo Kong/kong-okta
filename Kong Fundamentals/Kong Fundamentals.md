@@ -29,12 +29,7 @@ Click on version "v1"
 
 Click on "New Implementation"
 
-
-
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image7.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image7.png "image_tooltip")
+![newimplementation](images/newimplementation.png)
 
 
 Type "http://httpbin.org" for URL and click on "Next"
