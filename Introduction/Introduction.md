@@ -79,3 +79,9 @@ To get access to both Control Planes please use the following links:
 
 UID: oktaprise-support@okta.com
 
+
+
+
+# Next Steps
+
+[Access to Kong Konnect Data Plane](https://github.com/Kong/kong-okta/blob/main/Kong%20Konnect%20Data%20Plane/Kong%20Konnect%20Data%20Plane.md)
