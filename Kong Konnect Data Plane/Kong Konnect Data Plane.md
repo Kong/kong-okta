@@ -12,7 +12,7 @@ Kong Gateway has a library of plugins that provide simple ways to implement the 
 * LDAP Authentication Advanced
 * OpenID Connect
 
-Please, refer to the following link to read more about API Gateway authentication: [https://konghq.com/learning-center/api-gateway/api-gateway-authentication/](https://konghq.com/learning-center/api-gateway/api-gateway-authentication/)
+Get more information about [API Gateway authentication](https://konghq.com/learning-center/api-gateway/api-gateway-authentication/)
 
 
 ### OpenID Connect
