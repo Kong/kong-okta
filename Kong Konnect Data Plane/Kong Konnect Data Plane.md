@@ -298,22 +298,14 @@ kube-system   kube-dns             ClusterIP      10.100.0.10     <none>        
 # 
 
 
-# Kong Gateway Demo Script
+# Kong Service and Route Creation
 
 
-## Kong Service and Route Creation
-
-
-### Create the Service Package
+## Create the Service Package
 
 Login to Konnect and click on "Add New Service"
 
-
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image3.png "image_tooltip")
+![servicehub](images/ServiceHub.png)
 
 
 Create a new "httpbinservice" Service with "v1" version
