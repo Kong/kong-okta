@@ -82,12 +82,7 @@ kube-system   kube-dns     ClusterIP   10.100.0.10   <none>        53/UDP,53/TCP
 
 Login to Konnect ([http://konnect.konghq.com](http://konnect.konghq.com)) and go to "Runtimes" -> "Configure Runtime" -> "Kubernetes":
 
-
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image2.png "image_tooltip")
+![konnect_runtime](images/KonnectRuntime.png)
 
 
 Click on "Generate Certificate" and copy them. For example:
