@@ -29,7 +29,7 @@ If you are not interested in creating a new Kong Data Plane, skip to the followi
 
 
 ### Creating the EKS Cluster
-
+To create the Kubernetes Cluster, we're going to use [eksctl](https://eksctl.io/), the official CLI for Amazon Elastic Kubernetes Service.
 
 ```
 $ eksctl create cluster --name kong-okta --version 1.21 --region us-east-1 --nodegroup-name standard-workers --node-type t3.large --nodes 1
