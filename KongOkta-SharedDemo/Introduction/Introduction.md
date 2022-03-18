@@ -84,4 +84,4 @@ UID: oktaprise-support@okta.com
 
 # Next Steps
 
-[Access to Kong Konnect Data Plane](https://github.com/Kong/kong-okta/blob/main/Kong%20Konnect%20Data%20Plane/Kong%20Konnect%20Data%20Plane.md)
+[Kong Konnect Data Plane](https://github.com/Kong/kong-okta/blob/main/KongOkta-SharedDemo/Kong%20Konnect%20Data%20Plane/Kong%20Konnect%20Data%20Plane.md)

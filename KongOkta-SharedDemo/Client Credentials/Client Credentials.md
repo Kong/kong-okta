@@ -385,6 +385,6 @@ http a7e6a579326ec48c38020ca20d0fd990-217409592.eu-west-3.elb.amazonaws.com/http
 
 ### Next Steps
 
-[Authorization Code](https://github.com/Kong/kong-okta/blob/main/Authorization%20Code/Authorization%20Code.md)
+[Authorization Code](https://github.com/Kong/kong-okta/blob/main/KongOkta-SharedDemo/Authorization%20Code/Authorization%20Code.md)
 
 
