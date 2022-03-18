@@ -20,6 +20,10 @@ UID: oktaprise-support@okta.com
 
 # Kong Data Plane - Amazon Elastic Kubernetes Service (EKS) Cluster
 
+## Pre-requisites
+* [kubectl] (https://kubernetes.io/docs/tasks/tools/#kubectl)
+* [eksctl](https://eksctl.io/introduction/#installation)
+
 
 ## Creating the Cluster
 
