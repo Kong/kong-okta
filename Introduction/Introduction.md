@@ -63,7 +63,7 @@ The following diagram shows a Reference Architecture including Kong Konnect Ente
 
 
 
-# Kong and Okta Demo Environement Control Planes
+# Kong and Okta Demo Environment Control Planes
 
 To get access to both Control Planes please use the following links:
 

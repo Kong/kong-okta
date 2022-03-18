@@ -1,7 +1,9 @@
-# Control Planes
+# Kong and Okta Demo Environment Control Planes
 
+To get access to both Control Planes please use the following links:
 
 ### Okta
+
 
 [https://demo-kong.oktapreview.com/](https://demo-kong.oktapreview.com/)
 
