@@ -12,7 +12,7 @@ Log in to Okta console using the Kong + Okta endpoint [https://demo-kong.oktapre
 
 Click on "Applications" -> "Applications" -> "Create App Integration". Create a "API Services" Application named KongClientCredentials:
 
-![clientcredentials2](images/clientcredentials2.png)
+![clientcredentialsapp2](images/clientcredentialsapp2.png)
 
 
 Click on the "eye" button to see the "Client secret". Save both "Client ID" and "Client secret". They'll be used to consume the Kong Route later on.
