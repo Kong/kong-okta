@@ -113,7 +113,7 @@ http://a7e6a579326ec48c38020ca20d0fd990-217409592.eu-west-3.elb.amazonaws.com/ht
 
 Since you don't have an Identity Token, the Gateway will redirect you to Okta to get authenticated.
 
-![browser2](images/browser2.png")
+![browser2](images/browser2.png)
 
 
 Enter with the right credentials. After authentication, Okta will redirect you to the API Gateway with the Id Token injected inside the request.
