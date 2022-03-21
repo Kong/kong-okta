@@ -113,12 +113,7 @@ Click on "Add a Plugin"
 
 Scroll down to the "Traffic Control" section:
 
-
-
-<p id="gdcalert13" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image13.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert14">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image13.png "image_tooltip")
+![trafficcontrol](images/trafficcontrol.png)
 
 
 Click on "Rate Limiting":
