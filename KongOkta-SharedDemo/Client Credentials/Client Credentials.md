@@ -27,12 +27,7 @@ Click on "Security" -> "API" -> "Authorization Servers"
 
 Click on the "default" Authorization Server. Take note of the Authorization Server issuer parameter, in our case: `https://demo-kong.oktapreview.com/oauth2/default`
 
-
-
-<p id="gdcalert22" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image22.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert23">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image22.png "image_tooltip")
+![authorizationserver2](images/authorizationserver2.png)
 
 
 Click on "Scopes" and "Add Scope" to create a scope named "scope1"
