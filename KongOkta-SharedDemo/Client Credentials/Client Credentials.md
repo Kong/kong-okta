@@ -54,12 +54,7 @@ Click on "httpbinroute" again:
 
 Click on "Add Plugin". Choose "OpenID Connect" plug:
 
-
-
-<p id="gdcalert25" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image25.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert26">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image25.png "image_tooltip")
+![oidcplugin](images/oidcplugin.png)
 
 
 Fill in the form with the following configuration:
