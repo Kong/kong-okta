@@ -118,12 +118,7 @@ Since you don't have an Identity Token, the Gateway will redirect you to Okta to
 
 Enter with the right credentials. After authentication, Okta will redirect you to the API Gateway with the Id Token injected inside the request.
 
-
-
-<p id="gdcalert32" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image32.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert33">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image32.png "image_tooltip")
+![browser3](images/browser3.png)
 
 
 
