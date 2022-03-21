@@ -7,12 +7,7 @@ The "Client Credentials" Flow is defined by OAuth to address scenarios like Appl
 
 Log in to Okta console using the Kong + Okta endpoint [https://demo-kong.oktapreview.com/](https://demo-kong.oktapreview.com/)
 
-
-
-<p id="gdcalert19" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image19.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert20">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image19.png "image_tooltip")
+![clientcredentialsapp](images/clientcredentialsapp.png)
 
 
 Click on "Applications" -> "Applications" -> "Create App Integration". Create a "API Services" Application named KongClientCredentials:
