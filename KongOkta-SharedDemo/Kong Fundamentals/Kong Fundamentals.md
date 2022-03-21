@@ -223,12 +223,7 @@ Similarly to what we did before, we are going to set the Proxy Caching plugin wi
 
 Check the Proxy Caching Plugin page for more information about it: [https://docs.konghq.com/hub/kong-inc/proxy-cache/](https://docs.konghq.com/hub/kong-inc/proxy-cache/)
 
-
-
-<p id="gdcalert18" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image18.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert19">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image18.png "image_tooltip")
+![proxycaching2](images/proxycaching2.png)
 
 
 
