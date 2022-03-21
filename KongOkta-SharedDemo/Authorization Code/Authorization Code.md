@@ -168,12 +168,7 @@ Click on "Security" -> "API" -> "default" Authorization Server" -> "Token Previe
 
 If we use the just created User, the token will be issued with the "kong_claim":
 
-
-
-<p id="gdcalert38" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image38.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert39">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image38.png "image_tooltip")
+![tokentest](images/tokentest2.png)
 
 
 
