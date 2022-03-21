@@ -22,12 +22,7 @@ Click on the "eye" button to see the "Client secret". Save both "Client ID" and 
 
 Click on "Security" -> "API" -> "Authorization Servers"
 
-
-
-<p id="gdcalert21" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image21.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert22">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image21.png "image_tooltip")
+![authorizationserver](images/authorizationserver.png)
 
 
 Click on the "default" Authorization Server. Take note of the Authorization Server issuer parameter, in our case: `https://demo-kong.oktapreview.com/oauth2/default`
