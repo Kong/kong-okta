@@ -123,12 +123,7 @@ Click on "Rate Limiting":
 
 For the "Config.Minute" parameter type 5 and for "config.policy" choose "local". Click on "Create".
 
-
-
-<p id="gdcalert15" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image15.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert16">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image15.png "image_tooltip")
+![ratelimiting2](images/ratelimiting2.png)
 
 
 As you can see we can define Rate Limiting policies by minute, hour and month. An external Redis infrastructure can be used to share the Rate Limiting counters across multiple Data Plane instances. Please check the Rate Limiting plugin page for more information: [https://docs.konghq.com/hub/kong-inc/rate-limiting/](https://docs.konghq.com/hub/kong-inc/rate-limiting/)
