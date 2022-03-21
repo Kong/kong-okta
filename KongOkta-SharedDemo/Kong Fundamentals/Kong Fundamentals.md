@@ -108,12 +108,7 @@ Click on the Route "httpbinroute"
 
 Click on "Add a Plugin"
 
-
-
-<p id="gdcalert12" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image12.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert13">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image12.png "image_tooltip")
+![addplugin](images/addplugin.png)
 
 
 Scroll down to the "Traffic Control" section:
