@@ -132,12 +132,7 @@ Enter with the right credentials. After authentication, Okta will redirect you t
 
 Click on "Directory" -> "Groups" -> "Add Group":
 
-
-
-<p id="gdcalert33" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image33.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert34">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image33.png "image_tooltip")
+![accesscontrol](images/accesscontrol.png)
 
 
 
