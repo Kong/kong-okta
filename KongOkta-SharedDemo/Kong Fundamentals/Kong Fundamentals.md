@@ -216,12 +216,7 @@ Click on the Route "httpbinroute" again:
 
 Click on "Add Plugin". Scroll down to the "Traffic Control" section again and choose the "Proxy Caching" plugin:
 
-
-
-<p id="gdcalert17" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image17.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert18">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image17.png "image_tooltip")
+![proxycaching](images/proxycaching.png)
 
 
 Similarly to what we did before, we are going to set the Proxy Caching plugin with its specific parameters. For example, for "Config.Cache Ttl" parameter type 30 and for "Config.Strategy" choose "memory.
