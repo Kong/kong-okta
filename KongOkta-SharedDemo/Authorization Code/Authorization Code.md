@@ -145,12 +145,7 @@ Click on "Directory" -> "People" -> "Add person":
 
 Add the new User to the Group we've just created:
 
-
-
-<p id="gdcalert35" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image35.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert36">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image35.png "image_tooltip")
+![newuser2](images/newuser2.png)
 
 
 Assign the new user to the KongPKCE Application.
