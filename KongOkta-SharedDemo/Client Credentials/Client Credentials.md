@@ -12,12 +12,7 @@ Log in to Okta console using the Kong + Okta endpoint [https://demo-kong.oktapre
 
 Click on "Applications" -> "Applications" -> "Create App Integration". Create a "API Services" Application named KongClientCredentials:
 
-
-
-<p id="gdcalert20" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image20.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert21">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image20.png "image_tooltip")
+![clientcredentials2](images/clientcredentials2.png)
 
 
 Click on the "eye" button to see the "Client secret". Save both "Client ID" and "Client secret". They'll be used to consume the Kong Route later on.
