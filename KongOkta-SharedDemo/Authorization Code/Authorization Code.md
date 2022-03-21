@@ -163,12 +163,7 @@ Go to the "default" Authorization Server and create a new Claim:
 
 Click on "Security" -> "API" -> "default" Authorization Server" -> "Token Preview".  and use the original user. As the user does not belong to the group the token won't have the "group" claim.
 
-
-
-<p id="gdcalert37" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image37.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert38">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image37.png "image_tooltip")
+![tokentest](images/tokentest.png)
 
 
 If we use the just created User, the token will be issued with the "kong_claim":
