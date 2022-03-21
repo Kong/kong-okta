@@ -32,12 +32,7 @@ Click on the "default" Authorization Server. Take note of the Authorization Serv
 
 Click on "Scopes" and "Add Scope" to create a scope named "scope1"
 
-
-
-<p id="gdcalert23" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image23.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert24">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image23.png "image_tooltip")
+![scope](images/scope.png)
 
 
 
