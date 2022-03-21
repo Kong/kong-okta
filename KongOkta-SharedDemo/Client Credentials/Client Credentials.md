@@ -44,18 +44,12 @@ Click on "Scopes" and "Add Scope" to create a scope named "scope1"
 Let's apply the OIDC plugin to the Route with the specific Okta settings:
 
 
-
 * Issuer Endpoint
 * Scope
 
 Click on "httpbinroute" again:
 
-
-
-<p id="gdcalert24" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image24.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert25">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image24.png "image_tooltip")
+![httpbinroute](images/httpbinroute.png)
 
 
 Click on "Add Plugin". Choose "OpenID Connect" plug:
