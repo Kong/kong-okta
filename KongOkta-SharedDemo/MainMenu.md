@@ -5,5 +5,3 @@
 * [Kong Fundamentals](https://github.com/Kong/kong-okta/blob/main/KongOkta-SharedDemo/Kong%20Fundamentals/Kong%20Fundamentals.md)
 * [Client Credentials](https://github.com/Kong/kong-okta/blob/main/KongOkta-SharedDemo/Client%20Credentials/Client%20Credentials.md)
 * [Authorization Code](https://github.com/Kong/kong-okta/blob/main/KongOkta-SharedDemo/Authorization%20Code/Authorization%20Code.md)
-
-*
